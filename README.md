@@ -8,3 +8,4 @@
 |:--------:|:-------:|
 02 | [github page](/02) |
 03 | [github page](/03) |
+期中考 | [github page](/mid) |
